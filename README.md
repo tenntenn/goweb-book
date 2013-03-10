@@ -10,7 +10,8 @@ Go言語で作るRESTful API
 * 第4章 net/httpパッケージの基礎
 * 第5章 nginx on AWSで動かす
 * 第6章 GowebでRESTful API
-* 第7章 mgoでMongoDBを使う
+* 第7章 データベースとの連携
+	* 7.1 mgoでMongoDBを使う
 * 第8章 AngularJSを使ってRESTful APIクライアントを作る
 * 第9章 さまざまなTips
 	* 9.1 CORS(Cross-Origin Resource Sharing)
