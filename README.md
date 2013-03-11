@@ -84,7 +84,7 @@ Go言語で作るRESTful API
 		* 3.9.1 testingパッケージ
 		* 3.9.2 単体テスト
 		* 3.9.3 ベンチマークテスト
-		* 3.9.4 reflect.DeepDeepEqual()
+		* 3.9.4 reflect.DeepEqual()
 		* 3.9.5 gocheckパッケージ
 * 第4章 Go言語のWebアプリの基礎
 	* 4.1 net/httpパッケージ
