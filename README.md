@@ -1,3 +1,6 @@
+共著者が現れましたので、今後は https://github.com/gobook-jp/gowebbook で管理します。
+
+
 Go言語で作るRESTful API
 ==========
 
@@ -15,7 +18,7 @@ Go言語で作るRESTful API
 	* 1.3 Go言語とは?
 * 第2章 環境構築
 	* 2.1 Go言語のインストール
-		* 2.1.1 MacOSX
+		* 2.1.1 Mac OSX
 		* 2.1.2 Linux
 		* 2.1.3 Windows
 	* 2.2 Go言語が利用できるエディタ
